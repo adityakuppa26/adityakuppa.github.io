@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Kuppa"
-  avatar           : "profile.png"
+  avatar           : "https://adityakuppa26.github.io/images/adityakuppa.JPG"
   bio              : "Application Developer at Oracle Corporation"
   location         : "Hyderabad, India"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "adityakupa27@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
