@@ -22,7 +22,7 @@ main:
 #    url: /markdown/
 
   - title: "Photography"
-      url: /photography/
+    url: /photography/
 
   - title: "Contact Me"
     url : /contact/
