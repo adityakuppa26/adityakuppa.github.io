@@ -26,7 +26,7 @@ author_profile: true
 </p>
 
 <p align="center">
-  <img src="https://adityakuppa26.github.io/images/kandi.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://adityakuppa26.github.io/images/kandi.png?raw=true" alt="Photo" style="width: 450px;"/> 
  <br/>
  Sri Ramalingeshwara Temple, Telangana, India.
 </p>
