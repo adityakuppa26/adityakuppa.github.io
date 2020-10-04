@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+In my photographs it is apparent that there was no posing at the moment I released the shutter.
+
 <p align="center">
   <img src="https://adityakuppa26.github.io/images/keymonastery-min.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
  <br/>
