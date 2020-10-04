@@ -8,21 +8,21 @@ author_profile: true
 {% include base_path %}
 
 <p align="center">
-  <img src="https://adityakuppa26.github.io/images/keymonastery.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://adityakuppa26.github.io/images/keymonastery-min.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
  <br/>
- Key Monastery - Kaza, Himachal Pradesh, India.
+ Key Monastery - Kaza, Himachal Pradesh, India. [High Resolution](https://adityakuppa26.github.io/images/keymonastery.JPG)
 </p>
 
 <p align="center">
-  <img src="https://adityakuppa26.github.io/images/coorg.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://adityakuppa26.github.io/images/coorg-min.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
  <br/>
- Abbey Falls - Coorg, Karnataka, India.
+ Abbey Falls - Coorg, Karnataka, India. [High Resolution](https://adityakuppa26.github.io/images/coorg.JPG)
 </p>
 
 <p align="center">
-  <img src="https://adityakuppa26.github.io/images/uttarakhand.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://adityakuppa26.github.io/images/uttarakhand-min.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
  <br/>
- Uttarakhand, India.
+ Uttarakhand, India. [High Resolution](https://adityakuppa26.github.io/images/uttarakhand.JPG)
 </p>
 
 <p align="center">
