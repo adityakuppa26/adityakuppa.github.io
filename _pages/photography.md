@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 <p align="center">
-  <img src="https://adityakuppa26.github.io/images/keymonastery-min.JPG?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://adityakuppa26.github.io/images/keymonastery-min.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
  <br/>
- Key Monastery - Kaza, Himachal Pradesh, India. <a href="https://adityakuppa26.github.io/images/keymonastery.JPG">[High Resolution]</a>
+ Key Monastery - Kaza, Himachal Pradesh, India. <a href="https://adityakuppa26.github.io/images/keymonastery.jpeg">[High Resolution]</a>
  </p>
 
 <p align="center">
