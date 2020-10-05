@@ -10,6 +10,12 @@ author_profile: true
 In my photographs it is apparent that there was no posing at the moment I released the shutter.
 
 <p align="center">
+  <img src="https://adityakuppa26.github.io/images/spiti-min.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+ <br/>
+ Spiti Valley, Himachal Pradesh, India. <a href="https://adityakuppa26.github.io/images/spiti.jpeg">[High Resolution]</a>
+ </p>
+
+<p align="center">
   <img src="https://adityakuppa26.github.io/images/keymonastery-min.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
  <br/>
  Key Monastery - Kaza, Himachal Pradesh, India. <a href="https://adityakuppa26.github.io/images/keymonastery.jpeg">[High Resolution]</a>
