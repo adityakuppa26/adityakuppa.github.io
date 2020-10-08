@@ -22,7 +22,7 @@ main:
 #    url: /markdown/
 
   - title: "Projects"
-      url: /projects/
+    url: /projects/
 
   - title: "Photography"
     url: /photography/
