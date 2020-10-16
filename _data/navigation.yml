@@ -27,5 +27,8 @@ main:
   - title: "Photography"
     url: /photography/
 
+  - title: "Blog"
+    url: /blog/
+
   - title: "Contact Me"
     url : /contact/
